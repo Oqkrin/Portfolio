@@ -1,0 +1,8 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #110e07;
+  margin: 0rem;
+  overflow: hidden;
+}
